@@ -1,5 +1,5 @@
-# Statistical-Analysis_telco_revenue
-In this project, statistical analysis approach is employed to decide what hypothesis to be rejected. Scipy Stat library is used to find the pvalue that will determine if Hypothesis Null should or should not be rejected.
+# Statistical_Data_Analysis_telco_revenue
+In this project, statistical data analysis approach is employed to decide what hypothesis to be rejected. Scipy Stat library is used to find the pvalue that will determine if Hypothesis Null should or should not be rejected.
 A telecommunication operator company is analysing its two lines of service for the revenue they generate. 
 The company wishes to know which segments it should focus its marketing resources on based on the revenue they contribute.
 
